@@ -1,2 +1,3 @@
 # ActividadTipoPrueba
-* Fernando Castro y Juan Garay
+* Fernando Castro y Juan Ortiz
+
